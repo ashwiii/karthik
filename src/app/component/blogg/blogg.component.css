@@ -1,0 +1,251 @@
+.d1
+{
+    position: absolute;
+width: 190px;
+height: 45px;
+left: 500px;
+top: 225px;
+
+background: #55C2DB;
+border-radius: 100px;
+
+}
+.d2
+{
+    position: absolute;
+width: 190px;
+height: 45px;
+left: 700px;
+top: 225px;
+
+background: #55C2DB;
+border-radius: 100px;
+}
+.d3 h3
+{
+    position: absolute;
+width: 729px;
+height: 25px;
+left: 396px;
+top: 290px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 45px;
+line-height: 25px;
+/* identical to box height, or 56% */
+
+
+color: #000000;
+}
+
+.d4 p
+{
+    position: absolute;
+width: 971px;
+height: 62px;
+left: 255px;
+top: 393px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+/* or 133% */
+
+text-align: center;
+
+color: #454545;
+
+}
+
+.d5 p
+{
+    position: absolute;
+    width: 139px;
+    height: 52px;
+    left: 585px;
+    top: 491px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 139% */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+
+}
+.d6
+{
+    position: absolute;
+width: 420px;
+height: 25px;
+left: 449px;
+top: 570px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 25px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #4F4F4F;
+
+}
+.d7 img
+{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 800pxpx;
+    height: 486px;
+    left: 100px;
+    top: 652px;
+    
+   
+    border: 1px solid #B6B6B6;
+    border-radius: 20px;
+
+}
+.d8 p
+{
+    position: absolute;
+width: 1000px;
+height: 596px;
+left: 180px;
+top: 1192px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+text-align: justify;
+
+color: #454545;
+
+}
+
+.d9 h4
+{
+    position: absolute;
+width: 234px;
+height: 25px;
+left: 280px;
+top: 1722px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+}
+.d10 h4
+{
+    position: absolute;
+width: 488px;
+height: 25px;
+left: 280px;
+top: 1758px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 25px;
+color:blue;
+}
+.d11 input
+{
+    position: absolute;
+width: 488px;
+height: 51px;
+left: 200px;
+top: 1858px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 25px;
+}
+.d12 input
+{
+    position: absolute;
+width: 376px;
+height: 51px;
+left: 720px;
+top:1858px;
+
+background: #F5F5F5;
+border-radius: 4px;
+}
+.d13 input
+{
+    position: absolute;
+width: 900px;
+height: 151px;
+left: 190px;
+top: 1950px;
+
+background: #F5F5F5;
+border-radius: 4px;
+}
+.d14 h5
+{
+    position: absolute;
+    width: 550px;
+    height: 25px;
+    left: 318px;
+    top: 2100px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 25px;
+    /* identical to box height, or 167% */
+    
+    text-align: center;
+    
+    color: #225EB5;
+     
+}
+.d15 button
+{
+    position: absolute;
+    width: 186px;
+    height: 51px;
+    left: 200px;
+    top: 2180px;
+    color:white;
+    background: #225EB5;
+    border-radius: 4px;
+}
+.ab{
+    position: absolute;
+    width: 1920px;
+    height: 98px;
+    left: 0px;
+    top: 2635px;
+}
+.last
+{
+position: absolute;
+width: 1920px;
+height: 123px;
+left: 0px;
+top: 2690px;
+
+background: #55C2DB;
+}

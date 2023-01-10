@@ -1,0 +1,157 @@
+.a1
+{
+    position: absolute;
+width: 183px;
+height: 40px;
+left: 290px;
+top: 191px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 40px;
+
+color: #0A4BA8;
+}
+.a2
+{
+    position: absolute;
+width: 106px;
+height: 24px;
+left: 290px;
+top: 287px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.a3 input
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 568px;
+height: 60px;
+left: 290px;
+top: 380px;
+
+background: #FFFFFF;
+border: 1px solid #C2C2C2;
+border-radius: 5px;
+}
+.a4 h3
+{
+    position: absolute;
+width: 101px;
+height: 24px;
+left: 290px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.a5  input
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 568px;
+height: 60px;
+left: 290px;
+top: 580px;
+
+background: #FFFFFF;
+border: 1px solid #C2C2C2;
+border-radius: 5px;
+}
+.a6 h5
+{
+    position: absolute;
+width: 136px;
+height: 24px;
+left: 350px;
+top: 644px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.a7
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 290px;
+top: 675px;
+
+background: #FFFFFF;
+border: 1px solid #C2C2C2;
+
+}
+.a8 button
+{
+
+    box-sizing: border-box;
+
+position: absolute;
+width: 178px;
+height: 60px;
+left: 290px;
+top: 754px;
+color:white;
+background: #0A4BA8;
+border-radius: 5px;
+}
+.ab{
+    position: absolute;
+    width: 1920px;
+    height: 98px;
+    left: 0px;
+    top: 1835px;
+}
+.last
+{
+position: absolute;
+width: 1920px;
+height: 123px;
+left: 0px;
+top: 1890px;
+
+background: #55C2DB;
+}
+.a9 a 
+{
+    position: absolute;
+width: 262px;
+height: 24px;
+left: 255px;
+top: 885px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+text-decoration-line: underline;
+
+color: #000000;
+
+}

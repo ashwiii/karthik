@@ -1,0 +1,323 @@
+.e2
+{
+    position: absolute;
+    width: 1920px;
+    height: 550px;
+    left: 0px;
+    top: 163px;
+    
+    background: #CE3A58;
+
+}
+.e3
+{
+    position: absolute;
+width: 359px;
+height: 61px;
+left: 217px;
+top: 339px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.e4 p
+{
+    position: absolute;
+    width: 714px;
+    height: 126px;
+    left: 217px;
+    top: 511px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    
+    color: #FFFFFF;
+    
+
+}
+.e5 img
+{
+    position: absolute;
+width: 350px;
+height: 260px;
+left: 117px;
+top: 813px;
+
+border-radius: 10px;
+}
+.e6 h3
+{
+    position: absolute;
+width: 644px;
+height: 31px;
+left: 500px;
+top: 823px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 25px;
+/* or 100% */
+
+
+color: #0A4BA8;
+
+}
+.e7 p
+{
+    position: absolute;
+width: 630px;
+height: 94px;
+left: 500px;
+top: 900px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+/* or 133% */
+
+
+color: #353535;
+
+}
+.e8 button
+{
+    position: absolute;
+width: 93px;
+height: 0px;
+left: 470px;
+top: 1000px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 0px;
+border:none;
+background-color: white;
+width:200px;
+
+color: #0A4BA8;
+
+}
+.e9 img 
+{
+    position: absolute;
+    width: 350px;
+    height: 260px;
+    left: 117px;
+    top: 1113px;
+    
+    border-radius: 10px;
+}
+.e10 h3
+{
+    position: absolute;
+width: 644px;
+height: 31px;
+left: 500px;
+top: 1123px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 25px;
+color: #0A4BA8;
+}
+
+.e11 p 
+{
+    position: absolute;
+width: 630px;
+height: 94px;
+left: 500px;
+top: 1200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+}
+.e12  h2
+{
+    position: absolute;
+    width: 93px;
+    height: 0px;
+    left: 500px;
+    top: 1300px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 0px;
+    /* identical to box height, or 0% */
+    
+    color: #0A4BA8;
+    
+}
+.e13 img 
+{
+    position: absolute;
+    width: 350px;
+    height: 260px;
+    left: 117px;
+    top: 1413px;
+    
+    border-radius: 10px;
+} 
+.e14 h3
+{
+    position: absolute;
+width: 644px;
+height: 31px;
+left: 500px;
+top: 1423px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 25px;
+color: #0A4BA8;
+}
+.e15 p 
+{
+    position: absolute;
+width: 630px;
+height: 94px;
+left: 500px;
+top: 1500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+}
+.e12  h2
+{
+    position: absolute;
+    width: 93px;
+    height: 0px;
+    left: 500px;
+    top: 1600px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 0px;
+    /* identical to box height, or 0% */
+    
+    color: #0A4BA8;
+    
+}
+.e16  h2
+{
+    position: absolute;
+    width: 93px;
+    height: 0px;
+    left: 500px;
+    top: 1300px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 0px;
+    /* identical to box height, or 0% */
+    
+    color: #0A4BA8;
+    
+}
+.e17 img 
+{
+    position: absolute;
+    width: 350px;
+    height: 260px;
+    left: 117px;
+    top: 1713px;
+    
+    border-radius: 10px;
+} 
+.e18 h3
+{
+    position: absolute;
+width: 644px;
+height: 31px;
+left: 500px;
+top: 1723px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 25px;
+color: #0A4BA8;
+}
+.e19 p 
+{
+    position: absolute;
+width: 630px;
+height: 94px;
+left: 500px;
+top: 1800px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+}
+.ab{
+    position: absolute;
+    width: 1920px;
+    height: 98px;
+    left: 0px;
+    top: 2635px;
+}
+.last
+{
+position: absolute;
+width: 1920px;
+height: 123px;
+left: 0px;
+top: 2690px;
+
+background: #55C2DB;
+}
+.e20  h2
+{
+    position: absolute;
+    width: 93px;
+    height: 0px;
+    left: 500px;
+    top: 1900px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 0px;
+    /* identical to box height, or 0% */
+    
+    color: #0A4BA8;
+    
+}

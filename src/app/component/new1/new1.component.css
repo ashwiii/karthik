@@ -1,0 +1,134 @@
+.f1 h4
+{
+    position: absolute;
+width: 295px;
+height: 15px;
+left: 280px;
+top: 203px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 15px;
+/* identical to box height, or 75% */
+
+
+color: #454545;
+
+}
+.f2 h2 
+{
+    position: absolute;
+width: 1118px;
+height: 100px;
+left: 180px;
+top: 249px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 50px;
+/* or 111% */
+
+
+color: #000000;
+
+}
+.f4 p
+{
+
+    position: absolute;
+width: 1001px;
+height: 60px;
+left: 180px;
+top: 316px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+/* or 133% */
+
+
+color: #454545;
+
+}
+.f5 img
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 990px;
+height: 386px;
+left: 180px;
+top: 480px;
+
+border: 1px solid #B6B6B6;
+border-radius: 20px;
+}
+.f6 p
+{
+    position: absolute;
+width: 1000px;
+height: 596px;
+left: 180px;
+top: 900px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+text-align: justify;
+
+color: #454545;
+
+}
+.f7 
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 204px;
+height: 55px;
+left: 352px;
+top: 1469px;
+
+background: #FFFFFF;
+border: 1px solid #D7D7D7;
+border-radius: 4px;
+}
+.f8
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 204px;
+height: 55px;
+left: 864px;
+top: 1469px;
+
+background: #FFFFFF;
+border: 1px solid #D7D7D7;
+border-radius: 4px;
+}
+.ab{
+    position: absolute;
+    width: 1920px;
+    height: 98px;
+    left: 0px;
+    top: 2635px;
+}
+.last
+{
+position: absolute;
+width: 1920px;
+height: 123px;
+left: 0px;
+top: 2690px;
+
+background: #55C2DB;
+}

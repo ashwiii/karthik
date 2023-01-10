@@ -1,0 +1,171 @@
+.a1 h4
+{
+    position: absolute;
+width: 228px;
+height: 40px;
+left: 326px;
+top: 149px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 40px;
+
+color: #0A4BA8;
+
+}
+.a2 h4
+{
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    left: 326px;
+    top: 245px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000; 
+}
+.a3
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 568px;
+height: 60px;
+left: 326px;
+top: 328px;
+
+background: #FFFFFF;
+border: 1px solid #C2C2C2;
+border-radius: 5px;
+}
+.a4 h4
+{
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    left: 326px;
+    top: 445px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000; 
+}
+.a5 
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 568px;
+height: 60px;
+left: 326px;
+top: 518px;
+
+background: #FFFFFF;
+border: 1px solid #C2C2C2;
+border-radius: 5px;
+}
+.a6 h4
+{
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    left: 326px;
+    top: 645px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000; 
+}
+.a7
+{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 568px;
+    height: 60px;
+    left: 326px;
+    top: 718px;
+    
+    background: #FFFFFF;
+    border: 1px solid #C2C2C2;
+    border-radius: 5px;
+}
+.a8 h4 
+{
+    position: absolute;
+    width: 181px;
+    height: 24px;
+    left: 326px;
+    top: 835px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+
+}
+.a9 
+{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 568px;
+    height: 60px;
+    left: 326px;
+    top: 908px;
+    
+    background: #FFFFFF;
+    border: 1px solid #C2C2C2;
+    border-radius: 5px;
+}
+.a10 button
+{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 178px;
+    height: 60px;
+    left: 326px;
+    top: 1000px;
+    color:white;
+    
+    background: #0A4BA8;
+    border-radius: 5px;
+
+}
+.ab{
+    position: absolute;
+    width: 1920px;
+    height: 98px;
+    left: 0px;
+    top: 1535px;
+}
+.last
+{
+position: absolute;
+width: 1920px;
+height: 123px;
+left: 0px;
+top: 1590px;
+
+background: #55C2DB;
+}
